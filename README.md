@@ -10,7 +10,7 @@ This python script deobfuscate PowerShell scripts.
 - Rename functions.
 
 ## Usage
-python PS1Decoder.py input
+    python PS1Decoder.py input
 
 ## Example
 Obfuscate PowerShell script
